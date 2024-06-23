@@ -11,7 +11,7 @@
 
 ## 立志篇
 
-* [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
+* [欢迎来到长安大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
 * [你想要做什么](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
